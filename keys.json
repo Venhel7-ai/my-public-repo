@@ -5,6 +5,13 @@
         "duration": 24,
         "activated": false,
         "expires_at": ""
+    },
+    {
+        "key": "12",
+        "scripts": ["Швейный цех", "Токарь"],
+        "duration": 24,
+        "activated": false,
+        "expires_at": ""
     }
 
 
