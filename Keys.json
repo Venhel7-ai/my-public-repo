@@ -1,33 +1,11 @@
 [
   {
-    "key": "123",
-    "scripts": [
-      "Швейный цех",
-      "Токарь"
-    ],
-    "duration": 24,
-    "activated": true,
-    "expires_at": "2025-05-31T14:41:14.781278",
-    "activated_by": "238368710455211"
-  },
-  {
-    "key": "12",
-    "scripts": [
-      "Швейный цех",
-      "Токарь"
-    ],
-    "duration": 24,
-    "activated": true,
-    "expires_at": "2025-05-31T14:44:22.640537",
-    "activated_by": "238368710455211"
-  },
-  {
     "key": "111",
     "scripts": [
       "Швейный цех",
       "Токарь"
     ],
-    "duration": 24,
+    "duration": 0.05,
     "activated": true,
     "expires_at": "2025-05-31T15:13:17.707243",
     "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
