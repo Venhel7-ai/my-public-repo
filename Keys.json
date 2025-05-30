@@ -1,0 +1,22 @@
+[
+  {
+    "key": "123",
+    "scripts": [
+      "Швейный цех",
+      "Токарь"
+    ],
+    "duration": 24,
+    "activated": true,
+    "expires_at": "2025-05-31T14:33:15.666823"
+  },
+  {
+    "key": "12",
+    "scripts": [
+      "Швейный цех",
+      "Токарь"
+    ],
+    "duration": 24,
+    "activated": false,
+    "expires_at": ""
+  }
+]
