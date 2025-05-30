@@ -9,5 +9,16 @@
     "activated": true,
     "expires_at": "2025-05-31T19:25:56.747261",
     "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+  },
+  {
+    "key": "Key",
+    "scripts": [
+      "Спортзал"
+      
+    ],
+    "duration": 24,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
   }
 ]
