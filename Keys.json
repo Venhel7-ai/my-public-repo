@@ -1,27 +1,6 @@
 [
   {
-    "key": "111",
-    "scripts": [
-      "Швейный цех",
-      "Токарь"
-    ],
-    "duration": 24,
-    "activated": false,
-    "expires_at": "2025-05-31T15:13:17.707243",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
-  },
-  {
-    "key": "1111",
-    "scripts": [
-      "Спортзал"
-    ],
-    "duration": 0.05,
-    "activated": true,
-    "expires_at": "2025-05-30T16:31:50.025598",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
-  },
-  {
-    "key": "11",
+    "key": "123",
     "scripts": [
       "Швейный цех",
       "Токарь"
@@ -31,4 +10,5 @@
     "expires_at": "",
     "activated_by": ""
   }
+  
 ]
