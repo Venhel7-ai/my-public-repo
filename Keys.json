@@ -24,11 +24,12 @@
   {
     "key": "key",
     "scripts": [
-      "Спортзал",
-      "Токарь",
+      "Швейный цех",
+      "Токарь"
+    ],
     "duration": 24,
-    "activated": false,
-    "expires_at": "2025-05-31T14:44:22.640537",
-    "activated_by": "" 
-  }
+    "activated": true,
+    "expires_at": "2025-05-31T14:41:14.781278",
+    "activated_by": ""
+  },
 ]
