@@ -6,8 +6,9 @@
       "Токарь"
     ],
     "duration": 24,
-    "activated": false,
-    "expires_at": ""
+    "activated": true,
+    "expires_at": "2025-05-31T14:39:29.059486",
+    "activated_by": "238368710455211"
   },
   {
     "key": "12",
@@ -16,8 +17,7 @@
       "Токарь"
     ],
     "duration": 24,
-    "activated": true,
-    "expires_at": "2025-05-31T14:39:24.656533",
-    "activated_by": "238368710455211"
+    "activated": false,
+    "expires_at": ""
   }
 ]
