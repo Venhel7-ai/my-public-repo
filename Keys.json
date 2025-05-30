@@ -20,5 +20,13 @@
     "activated": true,
     "expires_at": "2025-05-31T14:44:22.640537",
     "activated_by": "238368710455211"
+  },
+  {
+    "key": "key",
+    "scripts": [
+      "Спортзал",
+      "Токарь",
+    "duration": 24,
+    "activated": False
   }
 ]
