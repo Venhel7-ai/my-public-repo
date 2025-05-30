@@ -27,6 +27,8 @@
       "Спортзал",
       "Токарь",
     "duration": 24,
-    "activated": False
+    "activated": false,
+    "expires_at": "2025-05-31T14:44:22.640537",
+    "activated_by": "" 
   }
 ]
