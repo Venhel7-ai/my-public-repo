@@ -28,8 +28,8 @@
       "Токарь"
     ],
     "duration": 24,
-    "activated": true,
+    "activated": false,
     "expires_at": "2025-05-31T14:41:14.781278",
     "activated_by": ""
-  },
+  }
 ]
