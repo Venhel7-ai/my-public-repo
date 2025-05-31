@@ -39,5 +39,25 @@
     "activated": false,
     "expires_at": "",
     "activated_by": ""
+  },
+  {
+    "key": "111",
+    "scripts": [
+      "Шахта"
+    ],
+    "duration": 24,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "1111",
+    "scripts": [
+      "Порт"
+    ],
+    "duration": 24,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
   }
 ]
