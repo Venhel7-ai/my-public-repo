@@ -1,43 +1,15 @@
 [
-  {
-    "key": "123",
-    "scripts": [
-      "Швейный цех",
-      "Токарь"
-    ],
-    "duration": 24,
-    "activated": true,
-    "expires_at": "2025-05-31T19:25:56.747261",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
-  },
+  
   {
     "key": "Key",
     "scripts": [
-      "Спортзал"
+      "Швейный цех", "Токарь", "Спортзал", "Порт",
+            "Анти АФК", "Авто Еда", "Ферма", "Авто Заказы",
+            "Готовка", "Шахта"
     ],
     "duration": 9999,
     "activated": true,
     "expires_at": "2026-07-23T05:38:44.408672",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
-  },
-  {
-    "key": "1",
-    "scripts": [
-      "Токарь"
-    ],
-    "duration": 24,
-    "activated": true,
-    "expires_at": "2025-06-01T14:41:16.012948",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
-  },
-  {
-    "key": "2",
-    "scripts": [
-      "Анти АФК"
-    ],
-    "duration": 24,
-    "activated": true,
-    "expires_at": "2025-06-01T14:37:18.295706",
     "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
   }
 ]
