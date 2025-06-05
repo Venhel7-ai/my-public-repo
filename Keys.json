@@ -1,3833 +1,3705 @@
 [
-    {
-        "key": "Key",
-        "scripts": [
-            "Швейный цех",
-            "Токарь",
-            "Спортзал",
-            "Порт",
-            "Анти АФК",
-            "Авто Еда",
-            "Ферма",
-            "Авто Заказы",
-            "Готовка",
-            "Шахта"
-        ],
-        "duration": 9999,
-        "activated": true,
-        "expires_at": "2026-07-23T05:38:44.408672",
-        "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
-    },
-    [
-        {
-            "key": "GYM-8XJF2-L9TQ7-4EKYV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-2MQR6-ZNTJ9-38CXD",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-K72WP-AX94F-5TMBL",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-X9KT2-RCDJ8-61WVM",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-HTB38-QW7XN-2AVPU",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-LB4YP-3WZN7-D2RJV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-PDQF6-WRYJX-7AUV9",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-YX5MK-AZ2J9-FTCW8",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-VJ8WR-ZCN64-TXPYE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-MP7AE-3CXTY-Z9WRQ",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-TXQ92-WUM6P-AEJLD",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-QW9TY-K3XPF-7JMBR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-XJZ84-RWCLP-MY237",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-ZKT5N-PQ9XD-1JWRE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-L9WRT-AE7YD-KPQXM",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-MPW92-ZJLR3-XYNVA",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-TQCW5-RL9XN-PZYK8",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-X7MFD-YA3JQ-WPLNE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-AVFZ7-J9TML-WX83Y",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-YQPKD-W3RTM-XLEA9",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-LM8JP-Z9C3A-RWXTF",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-KPZ74-XMCR8-JAYDW",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-AT5QE-YJMZ2-XDLKP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-FLWY9-XTC3K-ZMNVD",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-VJZR3-AYMKC-W2TXP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-XM75Q-WK93D-TJAEV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-ZYAW4-MLPKT-RJ9CE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-WRLXP-K3YMC-2ADJV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-KLZMP-3NXTW-ARUJE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "GYM-XW5CT-RZJYA-LM8PN",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-X7T9F-MZ4KD-RN2PW",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-JPQ38-VXYRM-6KALZ",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-C9W2D-BXJYTA-V4RMP",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-LM5KC-9ZQJTW-XP3VN",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-YTJZR-3MKXAB-WPQDV",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-FK94W-XTJYLM-RAZ6B",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-ZN72PQ-MRDYA-CX8VW",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-XMVBC9-RZKAJP-4LYTN",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-3TAWRD-JYPXKC-ZV6ML",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-LQ7MYZ-BPRN8VX-CJKT4",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-WAYRTJX-MC9KVL-PB3ND",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-JLX9PZR-WYMDT3K-CFAVB",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-KZNVMDL4-TYJXPRAQ-CW38B",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-MX9AVKLQ-TZ3PRDYJ-NC7WB",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-YDKL3PNRC-WXAQTZMJ-FV8VB",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-RLPZVYXTA-JKN3MCBQ-8FWDB",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-Q4WLYMBZT-KC3RJXAV-PFND9",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-NCRVPMKXW-JL7DYQ4TA-BF3ZV",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-PVKFJRLZ9-BXMCTAYWQ-ND38V",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-XTPRZMKLY-QJB4DWAVN-FC9BS",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-ZMKXRDYLV-BT9JNCQAP-3WF84",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-JWAMVRLTZX-KQPB3CYNF-D9S76",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-NRPQCJYMTK-BLF48XWVAS-D7Z3H",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-XLKB9ZTAJVR-PYQFCWMD3N-NHG85",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-WZMDYNXPCR7L-BKJ4VSAQFT-G39WH",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-QAVRMKXTJL9-BFZNPYWC3SD-H68WG",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-LKQFXZRYVMWP-CJTDN3AB49H-E7GSY",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-RATPXM9JLVKQ-NZCDWYSB48F-GH6MV",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-VNPLMFZXCJYK-TD8AWHR9Q3B-EGS4YW",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SEW-JBVYRHTZMPWLX-9AQSCF8NDGK-7FEV3Y",
-            "scripts": [
-                "Швейный Цех"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-X7T9F-MZ4KD-RN2PW",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-JPQ38-VXYRM-6KALZ",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-C9W2D-BXJYTA-V4RMP",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-LM5KC-9ZQJTW-XP3VN",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-YTJZR-3MKXAB-WPQDV",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-FK94W-XTJYLM-RAZ6B",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-ZN72PQ-MRDYA-CX8VW",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-XMVBC9-RZKAJP-4LYTN",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-3TAWRD-JYPXKC-ZV6ML",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-LQ7MYZ-BPRN8VX-CJKT4",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-WAYRTJX-MC9KVL-PB3ND",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-JLX9PZR-WYMDT3K-CFAVB",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-KZNVMDL4-TYJXPRAQ-CW38B",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-MX9AVKLQ-TZ3PRDYJ-NC7WB",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-YDKL3PNRC-WXAQTZMJ-FV8VB",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-RLPZVYXTA-JKN3MCBQ-8FWDB",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-Q4WLYMBZT-KC3RJXAV-PFND9",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-NCRVPMKXW-JL7DYQ4TA-BF3ZV",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-PVKFJRLZ9-BXMCTAYWQ-ND38V",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-XTPRZMKLY-QJB4DWAVN-FC9BS",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-ZMKXRDYLV-BT9JNCQAP-3WF84",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-JWAMVRLTZX-KQPB3CYNF-D9S76",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-NRPQCJYMTK-BLF48XWVAS-D7Z3H",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-XLKB9ZTAJVR-PYQFCWMD3N-NHG85",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-WZMDYNXPCR7L-BKJ4VSAQFT-G39WH",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-QAVRMKXTJL9-BFZNPYWC3SD-H68WG",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-LKQFXZRYVMWP-CJTDN3AB49H-E7GSY",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-RATPXM9JLVKQ-NZCDWYSB48F-GH6MV",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-VNPLMFZXCJYK-TD8AWHR9Q3B-EGS4YW",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "TURN-JBVYRHTZMPWLX-9AQSCF8NDGK-7FEV3Y",
-            "scripts": [
-                "Токарь"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-7ZDJ4-KC2VXP-NQMTSR",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-MRW9QL7JZB-KPX2NCYVTA",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-TZ7VMXPD3H9NQK4JCBYL",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-PYNQX3RLJ7DKMH8BCVZA",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-KC7RJWQYVNXAPLBZFM94",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-LNYBPR7CXJTAKD3QVZSM",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-VQPYZXKRWM7LFCN3AJBD",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-3JAPVKCDZQXRL9M7NYBF",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-RMDVYXPNQC7LTZ8FKJWA",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-XQFJB3LVRMDPNYZC7TAK",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-WN9VYRTJXMKCPLFZABQD",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-JKRQCFYPVZMLX7DBSNTWA",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-7ZCQRYDLNKMVJXFWPATBS",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-PWZKVYLQMTJXANFCRD9SB",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-4JZBNTMCWFKXPVRQYLAHS",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-MVWTLDXJZKNFQYPCR7SBA",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-PYXBMDLTQZNKRWCVJAF7S",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-KXPLJFTRVYQWNMCZDA8BS",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-YBTDMKXRVWJCPQFNLSA9Z",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-J7TVYPMZNSCXFLWBKDQA9",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-MRFPZXVJ9CNTLKAWBQSYD",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-WXFDZPAJMLYKVCN7RBTQS",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-TYCRZJVNFMSKXLAPBDQ7W",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-QNZJXRMVYPBFSAKLD7TWC",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-XVDQFZMYAPNLWCTJRKSB7",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-MQFBZTJAXWNRLSCYPVKD79",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-BXTYKVMCQPNRZWFSJAHDL7",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-VWCNQZKLDMRSXJTYAFPB9",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-JRCDWFBQTXPVMSALNZKY97",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "FARM-KXWJZPVLDTSMYRAQNCF7BG",
-            "scripts": [
-                "Ферма"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-4ZXN7PYQMLVTSJBKARHFD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-TQYVXPMARLJKFWCBN9Z8S",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-HKZRVJNPWSBMYCQTLA9XF",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-SM7LPZQJKCARYXTVNBFWD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-PRNMTYXVZJBAK3LQCF8SW",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-WV9XTYJBNCRMPAFLQSZKD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-BQSLPNJXMVWAF9HKRZTYC",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-XVJCBNRMPFATYQKLSHZWD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-MRZTSFWAVYNBJKXCLPQDH",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-8LRXJZVCMYTQPSAFWKNDB",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-YNMZBFRKTAVCQLXWJSPHD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-JLPYXMRKVNBQWSTFAZDC9",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-AXWPRMKZCJBTYVQNFDLSH",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-KFLRJVZBPNXTMWYHQDACS",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-YQZCDWJNSBKTLRAVMXPFH9",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-VBTLJPQFAMRZSNKXHCYWD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-PAVSMTJZCYRQFWXKLBNDH",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-RWTSNCLMZXYPBFVJKQHDA",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-BXHLJPNCTVMRAKYDZQFSW9",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-KAQYMFJXTLRNCSWBZPVDHW",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-MZYXRPDWBVQNCTFJKLSAH9",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-LRPJCSXTAMFWVZYBKNQHD9",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-JMSRNYQBTXFKZAWPVLCDH7",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-PXZKTMHYNFWDCSQJRBVAL8",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-VYFCPKXNJMAWRQBSTLHZGD",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-WNQLYVRZJKDBPSATFCHMXA",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-9ZTXCBNWMKYVHSJFLRAQDP",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-QZLMKBYRPVFSXJCNHATWD9",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-DWPQXJTYSZVMCNBLFHRKAG",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "COOK-MKRJLWYBZTVCXQANSHPFDM",
-            "scripts": [
-                "Готовка"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-9QJZMNLTXRYFVCSHKPGWA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-VYRZLNHMSJXPFBKTQGCWD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-MHXGPKSWTJRZNVQCBLYFA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-CBKPYLVZJXNQSWAMFRTGH",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-WQSNTYALFMKGRVJHPBXZC",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-LPJZVCNBHGKQWTXMRFASY",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-RFCBNJTPHLSXVZYQMAGWK",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-TZPGWHVMSYJXNQFKLCBRA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-NMJTBHKCYVPSGLZFWXQRA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-SXZCMKBRYQPVNLWJHTGFA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-YGLXFPWZVRTSCJAMKHNQB",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-JXMBYKTSGNWAVZCPRQFLH",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-VCGRMSKJNZLQYXPWTABHF",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-QLPYHJNTKAWVFCGZMBSRX",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-KQSTHVYFNJPMZWCBXALRG",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-FVXHPGMRWSKCBYALZJNTQ",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-WZYQBHSTPNXKVRMJLCFAG",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-BGRMPZNVJWHYLSXCATFKQ",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-PWZKSMLRYFGXNJVCHTQAB",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-MTKZSVHYJFCXLGNPWQRBA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-HFNWBGJMVQPKZCLTXRSYA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-XMCPLKVYNTHWAJSFZBRGQ",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-RSWYZTJABNVQFHGKXLPCM",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-GPTMFRXHLVWSQCBYJANKZ",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-LYVKRNHAXZGSCFPWMJQBT",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-BZFMSLCKWHATQYVJXPNRG",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-TXVMFQRNYBGLJHZSKWACP",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-SJZYQANXWMTRPKVLBCHGF",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-JKYPLVZQHSTWMBFGRNCAX",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK-NVBJRAHPCQKYXGTSMLFZW",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 168,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-VMRZHCXJKLNPYBQFGATS",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-JGWCSNLMKVZBYQXAFRTHP",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-QPHVKFTABNJCRYZXWLSGM",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-XBLRWZGTYFHQSMJKNPVCA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-YMKFTZHSJXVCPGQLNRBWA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-CLHQWYJPNMGVKZBRXSTFSA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-BFMCGRKYXLHVWQJNPZATS",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-NQSTJXPLKGYWAFZBCRVHM",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-VZRJPBGMLXWKQSACFHTNY",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-HTWZVBQGLNMKJFRYSCPXA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-PKXRVYJSBLZNFQWACMHTG",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-MYNWSACVJKHLBZPXTQFGR",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-JAVCLYRBKMNFQGZXSTHPWD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-FQPNZBLRMXTHGVWYKSJAC",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-SCGZPLTFHQJKVWBMYANXR",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-WYAFXJKMZBLVNPQGCSRHT",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-RGLMKCJNTBHVXWYQPFZSA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-XYQFNMVPGZKWLCBTHRJSA",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-ZNPRJWLKGBXFAYMCSQHTVE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-VXLQACMTNFSJYRKHZBGWPD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-MPJWFXVNGYABSLKQHTZCRC",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-CZYQXMTNVLJFKHRBPGSWAD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-KSWPFRJVGNTZQABYHMLCXE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-TJZBWLNQYVKSCMRXAFPGHD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-ABGNLCJMQVRYXTFZPWHKSD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-FXWZNTYHKMPGVQCBASLJRD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-LCFRMJWQHKYTVXNGABZPSD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-SNZMPAVYGLXBQWJHTCFKRD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-YRKZTBGVXQFNMHLJCPAWDS",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-HXAWJGSVNMYLQFBZPCTKRD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK7-VZBHKLFJAMWSRYTXPCQNDGE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-GVZRBJXCTQMWYKPSLNFAHD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-YPXBLHRWMFTSJVKNZCQDGAE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-NZQLPSHYXRKTJGMWVFABCED",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-BKWXFRLHTCJVSPQGMNZDYAE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-JMSTQGZCNFPYABLVKXHDRWE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-VLFCTBAMKQPRXZYJHGSWNED",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-PWQRVZAFBHTXJMLKYSGNDEC",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-ZGYLWQJMHVSCPXABFTKNRED",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-SKJZFGVHLXYNCPRWTQAMDIE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-XHTCRQPMVLZFGYSWABNJKDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-MLKZHPYWVGSXNBJQTFRCADE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-CAGXPVWHQZRMJYSNBLFTKDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-YTRKBVXLGJMFHNZQSCPWADE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-FBWVMCYZPLHXTJQANRGSKDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-LSJFPZMVXWRYQCKGABNTHDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-QMZHBCXALYNPVGRFSTJWKDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-TGNSYKFPXCVJABWRMZQLHDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-RWQVYJFPZKMTGCSLBHAXNDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-BHMPNYZVLXTQFJCSWAGKRDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-NXKGHRJZWVLMBQPYFATSCD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-VAPMJFWLRSTXYCBZKQGNDHE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-JBZFMNRYXWVTGSQAHKPLCDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-PKCLWRZGYHFAJNBTXMVQSDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-ZMVHTLBGYFKRXCNJPQWSADE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-YSXPMFTQLJNAGKCRWBVHZDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-QLCRKWZMBXHVJGTNYSFAEPD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-FSNJXKVAGQCHRWZYLBTMPDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-WPJYALZQTVCKXMGFNRBHSDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-MHTGRXFYCSWZBVAPQJNKLDE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-CZRQFKHLYTGASJWPXNBMVD",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AAFK9-XLVGMHSYRNQJZCPTFAWKDBE",
-            "scripts": [
-                "Анти АФК"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-DFGTHYUJMKLZXCVBNPQWERA",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-QWERTYUIOPASDFGHJKLZXCV",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-ZXCVBNMLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-ASDFGHJKLQWERTYUIOPZXCVB",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-MNBVCXZLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Порт"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-QWERTYUIOPASDFGHJKLZXCV",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-MNBVCXZLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-ZXCVBNMLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-ASDFGHJKLQWERTYUIOPZXCV",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTO9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Авто Заказы"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-PLMKJNHBGVFCDXSAQWERTYUI",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-MNBVCXZLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-ZXCVBNMLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-ASDFGHJKLQWERTYUIOPZXCV",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "AUTOE-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Авто Еда"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-QWERTYUIOPLKJHGFDSAMNBV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-ZXCVBNMLKJHGFDSAPOIUYT",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-POIUYTREWQLKJHGFDSMNBV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-LKJHGFDSAMNBVCXZPOIUYT",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-UIOPASDFGHJKLZXCVBNMQW",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-YTREWQLKJHGFDSMNBVCXZA",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-FGHJKLZXCVBNMQWERTYUIO",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-VBNMLKJHGFDSAPOIUYTREW",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-JHGFDSAPOIUYTREWQLKJHZ",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-QWERTYUIOPZXCVBNMLKJHG",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-MNBVCXZLKJHGFDSAPOIUY",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-ASDFGHJKLZXCVBNMQWERTY",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-POIUYTREWQLKJHGFDSMNB",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-LKJHGFDSAMNBVCXZPOIUY",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-UIOPASDFGHJKLZXCVBNMQ",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-YTREWQLKJHGFDSMNBVCXZ",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-FGHJKLZXCVBNMQWERTYUI",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-VBNMLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-JHGFDSAPOIUYTREWQLKJH",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-QWERTYUIOPZXCVBNMLKJH",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-MNBVCXZLKJHGFDSAPOIUY",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-ASDFGHJKLZXCVBNMQWERT",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-POIUYTREWQLKJHGFDSMNB",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-LKJHGFDSAMNBVCXZPOIUT",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-UIOPASDFGHJKLZXCVBNMQ",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-YTREWQLKJHGFDSMNBVCXZ",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-FGHJKLZXCVBNMQWERTYUI",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT7-VBNMLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 744,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-PLMKJNHBGVFCDXSAQWERTYUI",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-ZXCVBNMLKJHGFDSAPOIUYTRE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-ASDFGHJKLQWERTYUIOPZXCV",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-JHGFDSAPOIUYTREWQLKJHZX",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-QWERTYUIOPZXCVBNMLKJHGF",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-ASDFGHJKLZXCVBNMQWERTYU",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-POIUYTREWQLKJHGFDSMNBVC",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-LKJHGFDSAMNBVCXZPOIUYTR",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-UIOPASDFGHJKLZXCVBNMQWE",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-YTREWQLKJHGFDSMNBVCXZAP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-FGHJKLZXCVBNMQWERTYUIOP",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        },
-        {
-            "key": "SPORT9-VBNMLKJHGFDSAPOIUYTREWX",
-            "scripts": [
-                "Спортзал"
-            ],
-            "duration": 99999,
-            "activated": false,
-            "expires_at": "",
-            "activated_by": ""
-        }
-    ]
-]
+  {
+    "key": "Key",
+    "scripts": [
+      "Швейный цех", "Токарь", "Спортзал", "Порт",
+            "Анти АФК", "Авто Еда", "Ферма", "Авто Заказы",
+            "Готовка", "Шахта"
+                ],
+    "duration": 9999,
+    "activated": true,
+    "expires_at": "2026-07-23T05:38:44.408672",
+    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+  },
+  [
+  {
+    "key": "GYM-8XJF2-L9TQ7-4EKYV",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-2MQR6-ZNTJ9-38CXD",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-K72WP-AX94F-5TMBL",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-X9KT2-RCDJ8-61WVM",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-HTB38-QW7XN-2AVPU",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-LB4YP-3WZN7-D2RJV",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-PDQF6-WRYJX-7AUV9",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-YX5MK-AZ2J9-FTCW8",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-VJ8WR-ZCN64-TXPYE",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-MP7AE-3CXTY-Z9WRQ",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-TXQ92-WUM6P-AEJLD",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-QW9TY-K3XPF-7JMBR",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-XJZ84-RWCLP-MY237",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-ZKT5N-PQ9XD-1JWRE",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-L9WRT-AE7YD-KPQXM",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-MPW92-ZJLR3-XYNVA",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-TQCW5-RL9XN-PZYK8",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-X7MFD-YA3JQ-WPLNE",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-AVFZ7-J9TML-WX83Y",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-YQPKD-W3RTM-XLEA9",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-LM8JP-Z9C3A-RWXTF",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-KPZ74-XMCR8-JAYDW",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-AT5QE-YJMZ2-XDLKP",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-FLWY9-XTC3K-ZMNVD",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-VJZR3-AYMKC-W2TXP",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-XM75Q-WK93D-TJAEV",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-ZYAW4-MLPKT-RJ9CE",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-WRLXP-K3YMC-2ADJV",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-KLZMP-3NXTW-ARUJE",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "GYM-XW5CT-RZJYA-LM8PN",
+    "scripts": ["Спортзал"],
+    "duration": 168,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+  "key": "SEW-X7T9F-MZ4KD-RN2PW",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-JPQ38-VXYRM-6KALZ",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-C9W2D-BXJYTA-V4RMP",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-LM5KC-9ZQJTW-XP3VN",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-YTJZR-3MKXAB-WPQDV",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-FK94W-XTJYLM-RAZ6B",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-ZN72PQ-MRDYA-CX8VW",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-XMVBC9-RZKAJP-4LYTN",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-3TAWRD-JYPXKC-ZV6ML",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-LQ7MYZ-BPRN8VX-CJKT4",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-WAYRTJX-MC9KVL-PB3ND",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-JLX9PZR-WYMDT3K-CFAVB",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-KZNVMDL4-TYJXPRAQ-CW38B",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-MX9AVKLQ-TZ3PRDYJ-NC7WB",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-YDKL3PNRC-WXAQTZMJ-FV8VB",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-RLPZVYXTA-JKN3MCBQ-8FWDB",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-Q4WLYMBZT-KC3RJXAV-PFND9",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-NCRVPMKXW-JL7DYQ4TA-BF3ZV",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-PVKFJRLZ9-BXMCTAYWQ-ND38V",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-XTPRZMKLY-QJB4DWAVN-FC9BS",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-ZMKXRDYLV-BT9JNCQAP-3WF84",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-JWAMVRLTZX-KQPB3CYNF-D9S76",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-NRPQCJYMTK-BLF48XWVAS-D7Z3H",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-XLKB9ZTAJVR-PYQFCWMD3N-NHG85",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-WZMDYNXPCR7L-BKJ4VSAQFT-G39WH",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-QAVRMKXTJL9-BFZNPYWC3SD-H68WG",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-LKQFXZRYVMWP-CJTDN3AB49H-E7GSY",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-RATPXM9JLVKQ-NZCDWYSB48F-GH6MV",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-VNPLMFZXCJYK-TD8AWHR9Q3B-EGS4YW",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SEW-JBVYRHTZMPWLX-9AQSCF8NDGK-7FEV3Y",
+  "scripts": [
+    "Швейный Цех"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-X7T9F-MZ4KD-RN2PW",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-JPQ38-VXYRM-6KALZ",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-C9W2D-BXJYTA-V4RMP",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-LM5KC-9ZQJTW-XP3VN",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-YTJZR-3MKXAB-WPQDV",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-FK94W-XTJYLM-RAZ6B",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-ZN72PQ-MRDYA-CX8VW",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-XMVBC9-RZKAJP-4LYTN",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-3TAWRD-JYPXKC-ZV6ML",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-LQ7MYZ-BPRN8VX-CJKT4",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-WAYRTJX-MC9KVL-PB3ND",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-JLX9PZR-WYMDT3K-CFAVB",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-KZNVMDL4-TYJXPRAQ-CW38B",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-MX9AVKLQ-TZ3PRDYJ-NC7WB",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-YDKL3PNRC-WXAQTZMJ-FV8VB",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-RLPZVYXTA-JKN3MCBQ-8FWDB",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-Q4WLYMBZT-KC3RJXAV-PFND9",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-NCRVPMKXW-JL7DYQ4TA-BF3ZV",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-PVKFJRLZ9-BXMCTAYWQ-ND38V",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-XTPRZMKLY-QJB4DWAVN-FC9BS",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-ZMKXRDYLV-BT9JNCQAP-3WF84",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-JWAMVRLTZX-KQPB3CYNF-D9S76",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-NRPQCJYMTK-BLF48XWVAS-D7Z3H",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-XLKB9ZTAJVR-PYQFCWMD3N-NHG85",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-WZMDYNXPCR7L-BKJ4VSAQFT-G39WH",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-QAVRMKXTJL9-BFZNPYWC3SD-H68WG",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-LKQFXZRYVMWP-CJTDN3AB49H-E7GSY",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-RATPXM9JLVKQ-NZCDWYSB48F-GH6MV",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-VNPLMFZXCJYK-TD8AWHR9Q3B-EGS4YW",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "TURN-JBVYRHTZMPWLX-9AQSCF8NDGK-7FEV3Y",
+  "scripts": [
+    "Токарь"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-7ZDJ4-KC2VXP-NQMTSR",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-MRW9QL7JZB-KPX2NCYVTA",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-TZ7VMXPD3H9NQK4JCBYL",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-PYNQX3RLJ7DKMH8BCVZA",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-KC7RJWQYVNXAPLBZFM94",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-LNYBPR7CXJTAKD3QVZSM",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-VQPYZXKRWM7LFCN3AJBD",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-3JAPVKCDZQXRL9M7NYBF",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-RMDVYXPNQC7LTZ8FKJWA",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-XQFJB3LVRMDPNYZC7TAK",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-WN9VYRTJXMKCPLFZABQD",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-JKRQCFYPVZMLX7DBSNTWA",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-7ZCQRYDLNKMVJXFWPATBS",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-PWZKVYLQMTJXANFCRD9SB",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-4JZBNTMCWFKXPVRQYLAHS",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-MVWTLDXJZKNFQYPCR7SBA",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-PYXBMDLTQZNKRWCVJAF7S",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-KXPLJFTRVYQWNMCZDA8BS",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-YBTDMKXRVWJCPQFNLSA9Z",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-J7TVYPMZNSCXFLWBKDQA9",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-MRFPZXVJ9CNTLKAWBQSYD",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-WXFDZPAJMLYKVCN7RBTQS",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-TYCRZJVNFMSKXLAPBDQ7W",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-QNZJXRMVYPBFSAKLD7TWC",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-XVDQFZMYAPNLWCTJRKSB7",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-MQFBZTJAXWNRLSCYPVKD79",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-BXTYKVMCQPNRZWFSJAHDL7",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-VWCNQZKLDMRSXJTYAFPB9",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-JRCDWFBQTXPVMSALNZKY97",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "FARM-KXWJZPVLDTSMYRAQNCF7BG",
+  "scripts": [
+    "Ферма"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-4ZXN7PYQMLVTSJBKARHFD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-TQYVXPMARLJKFWCBN9Z8S",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-HKZRVJNPWSBMYCQTLA9XF",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-SM7LPZQJKCARYXTVNBFWD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-PRNMTYXVZJBAK3LQCF8SW",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-WV9XTYJBNCRMPAFLQSZKD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-BQSLPNJXMVWAF9HKRZTYC",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-XVJCBNRMPFATYQKLSHZWD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-MRZTSFWAVYNBJKXCLPQDH",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-8LRXJZVCMYTQPSAFWKNDB",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-YNMZBFRKTAVCQLXWJSPHD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-JLPYXMRKVNBQWSTFAZDC9",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-AXWPRMKZCJBTYVQNFDLSH",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-KFLRJVZBPNXTMWYHQDACS",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-YQZCDWJNSBKTLRAVMXPFH9",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-VBTLJPQFAMRZSNKXHCYWD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-PAVSMTJZCYRQFWXKLBNDH",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-RWTSNCLMZXYPBFVJKQHDA",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-BXHLJPNCTVMRAKYDZQFSW9",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-KAQYMFJXTLRNCSWBZPVDHW",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-MZYXRPDWBVQNCTFJKLSAH9",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-LRPJCSXTAMFWVZYBKNQHD9",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-JMSRNYQBTXFKZAWPVLCDH7",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-PXZKTMHYNFWDCSQJRBVAL8",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-VYFCPKXNJMAWRQBSTLHZGD",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-WNQLYVRZJKDBPSATFCHMXA",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-9ZTXCBNWMKYVHSJFLRAQDP",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-QZLMKBYRPVFSXJCNHATWD9",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-DWPQXJTYSZVMCNBLFHRKAG",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "COOK-MKRJLWYBZTVCXQANSHPFDM",
+  "scripts": [
+    "Готовка"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-9QJZMNLTXRYFVCSHKPGWA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-VYRZLNHMSJXPFBKTQGCWD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-MHXGPKSWTJRZNVQCBLYFA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-CBKPYLVZJXNQSWAMFRTGH",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-WQSNTYALFMKGRVJHPBXZC",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-LPJZVCNBHGKQWTXMRFASY",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-RFCBNJTPHLSXVZYQMAGWK",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-TZPGWHVMSYJXNQFKLCBRA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-NMJTBHKCYVPSGLZFWXQRA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-SXZCMKBRYQPVNLWJHTGFA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-YGLXFPWZVRTSCJAMKHNQB",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-JXMBYKTSGNWAVZCPRQFLH",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-VCGRMSKJNZLQYXPWTABHF",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-QLPYHJNTKAWVFCGZMBSRX",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-KQSTHVYFNJPMZWCBXALRG",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-FVXHPGMRWSKCBYALZJNTQ",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-WZYQBHSTPNXKVRMJLCFAG",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-BGRMPZNVJWHYLSXCATFKQ",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-PWZKSMLRYFGXNJVCHTQAB",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-MTKZSVHYJFCXLGNPWQRBA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-HFNWBGJMVQPKZCLTXRSYA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-XMCPLKVYNTHWAJSFZBRGQ",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-RSWYZTJABNVQFHGKXLPCM",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-GPTMFRXHLVWSQCBYJANKZ",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-LYVKRNHAXZGSCFPWMJQBT",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-BZFMSLCKWHATQYVJXPNRG",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-TXVMFQRNYBGLJHZSKWACP",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-SJZYQANXWMTRPKVLBCHGF",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-JKYPLVZQHSTWMBFGRNCAX",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK-NVBJRAHPCQKYXGTSMLFZW",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 168,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-VMRZHCXJKLNPYBQFGATS",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-JGWCSNLMKVZBYQXAFRTHP",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-QPHVKFTABNJCRYZXWLSGM",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-XBLRWZGTYFHQSMJKNPVCA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-YMKFTZHSJXVCPGQLNRBWA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-CLHQWYJPNMGVKZBRXSTFSA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-BFMCGRKYXLHVWQJNPZATS",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-NQSTJXPLKGYWAFZBCRVHM",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-VZRJPBGMLXWKQSACFHTNY",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-HTWZVBQGLNMKJFRYSCPXA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-PKXRVYJSBLZNFQWACMHTG",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-MYNWSACVJKHLBZPXTQFGR",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-JAVCLYRBKMNFQGZXSTHPWD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-FQPNZBLRMXTHGVWYKSJAC",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-SCGZPLTFHQJKVWBMYANXR",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-WYAFXJKMZBLVNPQGCSRHT",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-RGLMKCJNTBHVXWYQPFZSA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-XYQFNMVPGZKWLCBTHRJSA",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-ZNPRJWLKGBXFAYMCSQHTVE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-VXLQACMTNFSJYRKHZBGWPD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-MPJWFXVNGYABSLKQHTZCRC",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-CZYQXMTNVLJFKHRBPGSWAD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-KSWPFRJVGNTZQABYHMLCXE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-TJZBWLNQYVKSCMRXAFPGHD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-ABGNLCJMQVRYXTFZPWHKSD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-FXWZNTYHKMPGVQCBASLJRD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-LCFRMJWQHKYTVXNGABZPSD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-SNZMPAVYGLXBQWJHTCFKRD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-YRKZTBGVXQFNMHLJCPAWDS",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-HXAWJGSVNMYLQFBZPCTKRD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK7-VZBHKLFJAMWSRYTXPCQNDGE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-GVZRBJXCTQMWYKPSLNFAHD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-YPXBLHRWMFTSJVKNZCQDGAE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-NZQLPSHYXRKTJGMWVFABCED",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-BKWXFRLHTCJVSPQGMNZDYAE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-JMSTQGZCNFPYABLVKXHDRWE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-VLFCTBAMKQPRXZYJHGSWNED",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-PWQRVZAFBHTXJMLKYSGNDEC",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-ZGYLWQJMHVSCPXABFTKNRED",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-SKJZFGVHLXYNCPRWTQAMDIE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-XHTCRQPMVLZFGYSWABNJKDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-MLKZHPYWVGSXNBJQTFRCADE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-CAGXPVWHQZRMJYSNBLFTKDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-YTRKBVXLGJMFHNZQSCPWADE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-FBWVMCYZPLHXTJQANRGSKDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-LSJFPZMVXWRYQCKGABNTHDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-QMZHBCXALYNPVGRFSTJWKDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-TGNSYKFPXCVJABWRMZQLHDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-RWQVYJFPZKMTGCSLBHAXNDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-BHMPNYZVLXTQFJCSWAGKRDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-NXKGHRJZWVLMBQPYFATSCD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-VAPMJFWLRSTXYCBZKQGNDHE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-JBZFMNRYXWVTGSQAHKPLCDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-PKCLWRZGYHFAJNBTXMVQSDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-ZMVHTLBGYFKRXCNJPQWSADE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-YSXPMFTQLJNAGKCRWBVHZDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-QLCRKWZMBXHVJGTNYSFAEPD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-FSNJXKVAGQCHRWZYLBTMPDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-WPJYALZQTVCKXMGFNRBHSDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-MHTGRXFYCSWZBVAPQJNKLDE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-CZRQFKHLYTGASJWPXNBMVD",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AAFK9-XLVGMHSYRNQJZCPTFAWKDBE",
+  "scripts": [
+    "Анти АФК"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-DFGTHYUJMKLZXCVBNPQWERA",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-QWERTYUIOPASDFGHJKLZXCV",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-ZXCVBNMLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-ASDFGHJKLQWERTYUIOPZXCVB",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-MNBVCXZLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-VBNMLKJHGFDSAPOIUYTREWX",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-JHGFDSAPOIUYTREWQLKJHZX",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-QWERTYUIOPZXCVBNMLKJHGF",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-MNBVCXZLKJHGFDSAPOIUYTR",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-ASDFGHJKLZXCVBNMQWERTYU",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-VBNMLKJHGFDSAPOIUYTREWX",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-JHGFDSAPOIUYTREWQLKJHZX",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-QWERTYUIOPZXCVBNMLKJHGF",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-MNBVCXZLKJHGFDSAPOIUYTR",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-ASDFGHJKLZXCVBNMQWERTYU",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Порт"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-QWERTYUIOPASDFGHJKLZXCV",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-MNBVCXZLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-ZXCVBNMLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-ASDFGHJKLQWERTYUIOPZXCV",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-VBNMLKJHGFDSAPOIUYTREWX",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-JHGFDSAPOIUYTREWQLKJHZX",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-QWERTYUIOPZXCVBNMLKJHGF",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-MNBVCXZLKJHGFDSAPOIUYTR",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-ASDFGHJKLZXCVBNMQWERTYU",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-VBNMLKJHGFDSAPOIUYTREWX",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-JHGFDSAPOIUYTREWQLKJHZX",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-QWERTYUIOPZXCVBNMLKJHGF",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-MNBVCXZLKJHGFDSAPOIUYTR",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-ASDFGHJKLZXCVBNMQWERTYU",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTO9-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Авто Заказы"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-PLMKJNHBGVFCDXSAQWERTYUI",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-MNBVCXZLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-ZXCVBNMLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-ASDFGHJKLQWERTYUIOPZXCV",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-VBNMLKJHGFDSAPOIUYTREWX",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-JHGFDSAPOIUYTREWQLKJHZX",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-QWERTYUIOPZXCVBNMLKJHGF",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-MNBVCXZLKJHGFDSAPOIUYTR",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-ASDFGHJKLZXCVBNMQWERTYU",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-POIUYTREWQLKJHGFDSMNBVC",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-LKJHGFDSAMNBVCXZPOIUYTR",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-UIOPASDFGHJKLZXCVBNMQWE",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-YTREWQLKJHGFDSMNBVCXZAP",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-FGHJKLZXCVBNMQWERTYUIOP",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "AUTOE-VBNMLKJHGFDSAPOIUYTREWX",
+  "scripts": [
+    "Авто Еда"
+  ],
+  "duration": 99999,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-ASDFGHJKLZXCVBNMQWERTYU",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-QWERTYUIOPLKJHGFDSAMNBV",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-MNBVCXZLKJHGFDSAPOIUYTR",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-ZXCVBNMLKJHGFDSAPOIUYT",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-POIUYTREWQLKJHGFDSMNBV",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-LKJHGFDSAMNBVCXZPOIUYT",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-UIOPASDFGHJKLZXCVBNMQW",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-YTREWQLKJHGFDSMNBVCXZA",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-FGHJKLZXCVBNMQWERTYUIO",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-VBNMLKJHGFDSAPOIUYTREW",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-JHGFDSAPOIUYTREWQLKJHZ",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-QWERTYUIOPZXCVBNMLKJHG",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-MNBVCXZLKJHGFDSAPOIUY",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-ASDFGHJKLZXCVBNMQWERTY",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-POIUYTREWQLKJHGFDSMNB",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-LKJHGFDSAMNBVCXZPOIUY",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-UIOPASDFGHJKLZXCVBNMQ",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-YTREWQLKJHGFDSMNBVCXZ",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-FGHJKLZXCVBNMQWERTYUI",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-VBNMLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-JHGFDSAPOIUYTREWQLKJH",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-QWERTYUIOPZXCVBNMLKJH",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-MNBVCXZLKJHGFDSAPOIUY",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-ASDFGHJKLZXCVBNMQWERT",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-POIUYTREWQLKJHGFDSMNB",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-LKJHGFDSAMNBVCXZPOIUT",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-UIOPASDFGHJKLZXCVBNMQ",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-YTREWQLKJHGFDSMNBVCXZ",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-FGHJKLZXCVBNMQWERTYUI",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+  "key": "SPORT7-VBNMLKJHGFDSAPOIUYTRE",
+  "scripts": [
+    "Спортзал"
+  ],
+  "duration": 744,
+  "activated": false,
+  "expires_at": "",
+  "activated_by": ""
+},
+{
+    "key": "SPORT9-PLMKJNHBGVFCDXSAQWERTYUI",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTRE",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-ZXCVBNMLKJHGFDSAPOIUYTRE",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-ASDFGHJKLQWERTYUIOPZXCV",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-POIUYTREWQLKJHGFDSMNBVC",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-LKJHGFDSAMNBVCXZPOIUYTR",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-UIOPASDFGHJKLZXCVBNMQWE",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-YTREWQLKJHGFDSMNBVCXZAP",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-FGHJKLZXCVBNMQWERTYUIOP",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-VBNMLKJHGFDSAPOIUYTREWX",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-JHGFDSAPOIUYTREWQLKJHZX",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-QWERTYUIOPZXCVBNMLKJHGF",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTR",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-ASDFGHJKLZXCVBNMQWERTYU",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-POIUYTREWQLKJHGFDSMNBVC",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-LKJHGFDSAMNBVCXZPOIUYTR",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-UIOPASDFGHJKLZXCVBNMQWE",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-YTREWQLKJHGFDSMNBVCXZAP",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-FGHJKLZXCVBNMQWERTYUIOP",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-VBNMLKJHGFDSAPOIUYTREWX",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-JHGFDSAPOIUYTREWQLKJHZX",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-QWERTYUIOPZXCVBNMLKJHGF",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTR",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-ASDFGHJKLZXCVBNMQWERTYU",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-POIUYTREWQLKJHGFDSMNBVC",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-LKJHGFDSAMNBVCXZPOIUYTR",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-UIOPASDFGHJKLZXCVBNMQWE",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-YTREWQLKJHGFDSMNBVCXZAP",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-FGHJKLZXCVBNMQWERTYUIOP",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
+    "key": "SPORT9-VBNMLKJHGFDSAPOIUYTREWX",
+    "scripts": ["Спортзал"],
+    "duration": 99999,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  }
+  ]]
