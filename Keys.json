@@ -1,15 +1,15 @@
 [
     {
-    "key": "Key",
+    "key": "Root-ADMIN",
     "scripts": [
       "Швейный цех", "Токарь", "Спортзал", "Порт",
             "Анти АФК", "Авто Еда", "Ферма", "Авто Заказы",
             "Готовка", "Шахта"
                 ],
-    "duration": 9999,
+    "duration": 99999,
     "activated": true,
-    "expires_at": "2026-07-23T05:38:44.408672",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+    "expires_at": "",
+    "activated_by": ""
   },
   
   {
