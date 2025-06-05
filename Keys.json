@@ -1,5 +1,5 @@
 [
-  {
+    {
     "key": "Key",
     "scripts": [
       "Швейный цех", "Токарь", "Спортзал", "Порт",
@@ -3469,8 +3469,8 @@
     "activated": false,
     "expires_at": "",
     "activated_by": ""
-  },
-  {
+},
+{
     "key": "SPORT9-MNBVCXZLKJHGFDSAPOIUYTRE",
     "scripts": ["Спортзал"],
     "duration": 99999,
