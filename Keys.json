@@ -24,9 +24,9 @@
       "Шахта"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-01T13:30:05.313293",
+    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
   },
   {
     "key": "GYM-8XJF2-L9TQ7-4EKYV",
@@ -34,9 +34,9 @@
       "Спортзал"
     ],
     "duration": 168,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2025-06-13T15:45:29.244754",
+    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
   },
   {
     "key": "GYM-2MQR6-ZNTJ9-38CXD",
