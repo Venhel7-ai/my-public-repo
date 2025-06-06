@@ -25,8 +25,8 @@
     ],
     "duration": 99999,
     "activated": true,
-    "expires_at": "",
-    "activated_by": ""
+    "expires_at": "2036-11-01T13:30:05.313293",
+    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
   },
   {
     "key": "GYM-8XJF2-L9TQ7-4EKYV",
@@ -64,9 +64,9 @@
       "Спортзал"
     ],
     "duration": 168,
-    "activated": true,
-    "expires_at": "2025-06-13T15:39:42.773223",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
   },
   {
     "key": "GYM-HTB38-QW7XN-2AVPU",
@@ -1235,7 +1235,7 @@
     ],
     "duration": 99999,
     "activated": true,
-    "expires_at": "2036-11-02T11:41:21.099938",
+    "expires_at": "2036-11-02T11:45:35.020781",
     "activated_by": "3afaf90835ffd1f69412207800a8dc10f15acb57e561b49cda98ee6bea53cebc"
   },
   {
