@@ -1,5 +1,15 @@
 [
   {
+    "key": "AUTO-KEY-DJKA394JL",
+    "scripts": [
+      "Авто Заказы"
+    ],
+    "duration": 2232,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
+  },
+  {
     "key": "Root-ADMINVenhel7",
     "scripts": [
       "Швейный цех",
