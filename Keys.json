@@ -5,9 +5,9 @@
       "Авто Заказы"
     ],
     "duration": 2232,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2025-09-07T13:33:20.869882",
+    "activated_by": "f7173c73b2f2720d10390d9f99318a6518bf0617295e3d18ef9a0ea02129dc91"
   },
   {
     "key": "Root-ADMINVenhel7",
