@@ -564,9 +564,9 @@
       "Швейный Цех"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-02T07:02:39.020071",
+    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
   },
   {
     "key": "SEW-WZMDYNXPCR7L-BKJ4VSAQFT-G39WH",
@@ -1235,7 +1235,7 @@
     ],
     "duration": 99999,
     "activated": true,
-    "expires_at": "2036-11-02T11:46:22.665876",
+    "expires_at": "2036-11-02T12:06:33.763078",
     "activated_by": "3afaf90835ffd1f69412207800a8dc10f15acb57e561b49cda98ee6bea53cebc"
   },
   {
@@ -2544,9 +2544,9 @@
       "Порт"
     ],
     "duration": 99999,
-    "activated": true,
-    "expires_at": "2036-11-02T07:02:23.658370",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
   },
   {
     "key": "PORT9-VBNMLKJHGFDSAPOIUYTREWX",
