@@ -45,8 +45,8 @@
     ],
     "duration": 168,
     "activated": true,
-    "expires_at": "2025-06-13T15:53:09.024335",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+    "expires_at": "",
+    "activated_by": ""
   },
   {
     "key": "GYM-K72WP-AX94F-5TMBL",
@@ -565,8 +565,8 @@
     ],
     "duration": 99999,
     "activated": true,
-    "expires_at": "2036-11-02T07:14:45.457400",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+    "expires_at": "",
+    "activated_by": ""
   },
   {
     "key": "SEW-WZMDYNXPCR7L-BKJ4VSAQFT-G39WH",
@@ -1135,8 +1135,8 @@
     ],
     "duration": 99999,
     "activated": true,
-    "expires_at": "2036-11-02T07:27:41.365964",
-    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
+    "expires_at": "",
+    "activated_by": ""
   },
   {
     "key": "FARM-WXFDZPAJMLYKVCN7RBTQS",
