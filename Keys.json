@@ -38,6 +38,15 @@
     "activated": true,
     "expires_at": "2025-06-14T18:14:58.930812",
     "activated_by": "a019d15697bc6331bf95925f63f55aca55ef73f45547050a82900649ef736f41"
+  },{
+    "key": "GYM-8XJF2-L9TQ7-2HOUR",
+    "scripts": [
+      "Спортзал"
+    ],
+    "duration": 2,
+    "activated": false,
+    "expires_at": "",
+    "activated_by": ""
   },
   {
     "key": "GYM-2MQR6-ZNTJ9-38CXD",
@@ -45,7 +54,7 @@
       "Спортзал"
     ],
     "duration": 168,
-    "activated": true,
+    "activated": false,
     "expires_at": "",
     "activated_by": ""
   },
