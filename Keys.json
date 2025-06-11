@@ -65,9 +65,9 @@
       "Спортзал"
     ],
     "duration": 168,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2025-06-18T12:58:59.677917",
+    "activated_by": "e7e4908fe4808121a8fd478c33af4676aa1cffc3e0cb691c4155c7f082d659db"
   },
   {
     "key": "GYM-X9KT2-RCDJ8-61WVM",
