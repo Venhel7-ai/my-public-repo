@@ -3255,9 +3255,9 @@
       "Порт"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-10T09:53:38.251791",
+    "activated_by": "3a98b11d46c1b4fe6b91fd7875c4ced295f3a16126a0914ec5a9651aa1f8d6c6"
   },
   {
     "key": "PORT9-POIUYTREWQLKJHGFDSMNBVC",
