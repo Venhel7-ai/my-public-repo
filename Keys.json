@@ -3535,9 +3535,9 @@
       "Авто Заказы"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-10T06:17:41.659451",
+    "activated_by": "2c8b9831c1a3208f637421c8015534b5fee26dba85cce07b1458c1878e1f3f80"
   },
   {
     "key": "AUTO9-ASDFGHJKLQWERTYUIOPZXCV",
