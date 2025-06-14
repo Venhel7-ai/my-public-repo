@@ -45,9 +45,9 @@
       "Анти АФК"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-10T01:33:44.781591",
+    "activated_by": "eba4c4024f02bcaae8df5d8bab815e8f1639b606506bcf0d54af6ed2c7ce1c31"
   },
   {
     "key": "VM8YT3AZW9LK7Q1D",
@@ -2296,7 +2296,7 @@
     ],
     "duration": 168,
     "activated": true,
-    "expires_at": "2025-06-21T11:03:08.195353",
+    "expires_at": "2025-06-21T11:05:43.051998",
     "activated_by": "7d16fdb66b21c97b69fda522d8e93e5ebe0e17ebf95d679df68adc64c717442a"
   },
   {
