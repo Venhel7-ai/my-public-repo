@@ -3302,11 +3302,11 @@
   {
     "key": "PORT9-FGHJKLZXCVBNMQWERTYUIOP",
     "scripts": [
-      "Порт"
+      "Спортзал"
     ],
-    "duration": 99999,
+    "duration": 336,
     "activated": true,
-    "expires_at": "2036-11-14T08:04:34.790264",
+    "expires_at": "",
     "activated_by": "27124b7c6dd1ff3daa1713e0245449ea5bf41388bb7f9ae660b8caa1f072a1fe"
   },
   {
