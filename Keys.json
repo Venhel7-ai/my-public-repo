@@ -1695,9 +1695,9 @@
       "Ферма"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-16T11:31:23.352235",
+    "activated_by": "13802f11f950bd760751266c7d68910db7616d1a477324d14bca5c5998aa037a"
   },
   {
     "key": "FARM-MRW9QL7JZB-KPX2NCYVTA",
@@ -4006,7 +4006,7 @@
     ],
     "duration": 744,
     "activated": true,
-    "expires_at": "2025-07-21T20:31:02.758029",
+    "expires_at": "2025-07-21T19:20:15.555000",
     "activated_by": "13802f11f950bd760751266c7d68910db7616d1a477324d14bca5c5998aa037a"
   },
   {
