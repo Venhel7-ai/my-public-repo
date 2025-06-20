@@ -4005,9 +4005,9 @@
       "Спортзал"
     ],
     "duration": 744,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2025-07-21T19:20:15.555000",
+    "activated_by": "13802f11f950bd760751266c7d68910db7616d1a477324d14bca5c5998aa037a"
   },
   {
     "key": "SPORT7-QWERTYUIOPLKJHGFDSAMNBV",
