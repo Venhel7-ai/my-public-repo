@@ -2005,9 +2005,9 @@
       "Готовка"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-16T06:18:57.021164",
+    "activated_by": "1d922eecbaffb44c6f158dbc9ee3447c67a5daacde17acdb68cf49ed2dddea9a"
   },
   {
     "key": "COOK-HKZRVJNPWSBMYCQTLA9XF",
