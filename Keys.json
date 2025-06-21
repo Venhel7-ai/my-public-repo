@@ -2015,9 +2015,9 @@
       "Готовка"
     ],
     "duration": 99999,
-    "activated": false,
-    "expires_at": "",
-    "activated_by": ""
+    "activated": true,
+    "expires_at": "2036-11-17T09:20:14.964620",
+    "activated_by": "30767144d664e5551245e004589e7bbc505c198fdc167385b3c7297824dd0633"
   },
   {
     "key": "COOK-SM7LPZQJKCARYXTVNBFWD",
